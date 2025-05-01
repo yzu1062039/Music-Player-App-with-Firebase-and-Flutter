@@ -1,0 +1,2 @@
+/Users/wataame/Desktop/Flutter Project/Spotify Clone/spotify_clone/android/app/.cxx/Debug/e9i5uf3t/x86/CMakeFiles/edit_cache.dir
+/Users/wataame/Desktop/Flutter Project/Spotify Clone/spotify_clone/android/app/.cxx/Debug/e9i5uf3t/x86/CMakeFiles/rebuild_cache.dir
